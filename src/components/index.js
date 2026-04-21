@@ -8,6 +8,7 @@ import TechMobile from './TechMobile';
 import Experience from './Experience';
 import Works from './Works';
 import WorksMobile from './WorksMobile';
+import Certificates from './Certificates';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
 import Footer from './Footer';
@@ -23,6 +24,7 @@ export {
   Experience,
   Works,
   WorksMobile,
+  Certificates,
   Feedbacks,
   Contact,
   EarthCanvas, 

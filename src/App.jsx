@@ -10,6 +10,7 @@ import {
   Tech,
   Works,
   WorksMobile,
+  Certificates,
   StarsCanvas,
   Footer,
   TechMobile,
@@ -29,6 +30,7 @@ const App = () => {
         <Experience />
         {isMobile ? <TechMobile /> : <Tech />}
         {isMobile ? <WorksMobile /> : <Works />}
+        <Certificates />
         {/* <Feedbacks /> */}
         <div className="relative z-0">
           <Contact />

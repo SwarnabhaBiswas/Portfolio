@@ -20,7 +20,7 @@ const Hero = () => {
           <span className='text-[#915eff]'> Swarnabha</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-          Intermediate React developer with MERN experience.
+          MERN developer exploring real world systems.
           </p>
         </div>
       </div>

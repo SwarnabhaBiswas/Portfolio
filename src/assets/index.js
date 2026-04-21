@@ -6,6 +6,9 @@ import backend from "./about/backend.png";
 import creator from "./about/creator.png";
 import mobile from "./about/mobile.png";
 import web from "./about/web.png";
+import sap from "./about/sap.png";
+import ibm from "./about/ibm.png";
+import aws from "./about/aws.png";
 
 import pc from "./heromobile/pc.png";
 
@@ -28,17 +31,9 @@ import tesla from "./tech/tesla.png";
 import meta from "./tech/meta.png";
 import shopify from "./tech/shopify.png";
 
-import portfolio1 from "./portfolio/portfolio1.png";
-import portfolio2 from "./portfolio/portfolio2.png";
-import portfolio3 from "./portfolio/portfolio3.png";
-import portfolio4 from "./portfolio/portfolio4.png";
-import portfolio5 from "./portfolio/portfolio5.png";
-import portfolio6 from "./portfolio/portfolio6.png";
-import portfolio7 from "./portfolio/portfolio7.png";
-import portfolio8 from "./portfolio/portfolio8.png";
-import portfolio9 from "./portfolio/portfolio9.png";
-import portfolio10 from "./portfolio/portfolio10.png";
-import portfolio11 from "./portfolio/portfolio11.png";
+import portfolio1 from "./portfolio/portfolio1.jpg";
+import portfolio2 from "./portfolio/portfolio2.JPG";
+import portfolio3 from "./portfolio/portfolio3.JPG";
 
 import github from "./footer/github.png";
 import linkedin from "./footer/linkedin.png";
@@ -80,14 +75,9 @@ export {
   portfolio1,
   portfolio2,
   portfolio3,
-  portfolio4,
-  portfolio5,
-  portfolio6,
-  portfolio7,
-  portfolio8,
-  portfolio9,
-  portfolio10,
-  portfolio11,
   pc,
   resume,
+  sap,
+  ibm,
+  aws,
 };

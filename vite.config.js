@@ -8,4 +8,5 @@ export default defineConfig({
    commonjsOptions: {
       esmExternals: true,
    },
+   assetsInclude: ['**/*.JPG']
 });
